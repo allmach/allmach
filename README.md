@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @allmach
+- 👋 Hi, I’m Allan Machado
 - 👀 I’m interested in share information and knowledge. 
 - 🌱 I’m currently learning coding and programming.
 - 💞️ I’m looking to collaborate on solutions for community using programming. 
