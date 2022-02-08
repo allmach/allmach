@@ -1,4 +1,5 @@
-## Hi, I'm Allan Machado, interested in share information and knowledge and currently learning coding and programming. I’m looking to collaborate on solutions for community using programming. 
+## Hi, I'm Allan Machado, interested in share information and knowledge. Currently learning coding and programming. 
+## I’m looking to collaborate on solutions for community using programming. 
 
 - 📫 How to reach me: contact@allanmachado.com
 
